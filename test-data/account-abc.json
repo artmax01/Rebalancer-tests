@@ -1,0 +1,12 @@
+{
+  "accountId": "ABC",
+  "totalAssets": 100000,
+  "vestedPct": 100,
+  "positions": [
+    { "symbol": "IBM", "targetPct": 20, "currentPct": 10, "price": 150 },
+    { "symbol": "MSFT", "targetPct": 20, "currentPct": 20, "price": 90 },
+    { "symbol": "ORCL", "targetPct": 20, "currentPct": 30, "price": 220 },
+    { "symbol": "AAPL", "targetPct": 20, "currentPct": 20, "price": 450 },
+    { "symbol": "HD", "targetPct": 20, "currentPct": 20, "price": 70 }
+  ]
+}
